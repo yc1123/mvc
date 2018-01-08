@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.lucene:lucene-highlighter:${lucene.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/${lucene.version}/lucene-highlighter-${lucene.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/${lucene.version}/lucene-highlighter-${lucene.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/${lucene.version}/lucene-highlighter-${lucene.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
